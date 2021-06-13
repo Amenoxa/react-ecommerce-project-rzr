@@ -1,0 +1,16 @@
+h2 {
+    color: rgb(97, 216, 42);
+}
+span {
+    color: rgb(127, 247, 72);
+}
+
+.sign-in {
+    max-width: 30vw;
+    display: flex;
+    flex-direction: column;
+
+    .title {
+        margin: 10px 0;
+    }
+}
