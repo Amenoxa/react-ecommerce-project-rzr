@@ -1,5 +1,5 @@
 body {
-  font-family: 'Open Sans Condensed';
+  font-family: 'Baloo Tammudu 2', cursive;
   padding: 20px 60px;
   background-color: rgb(17, 17, 17);
 }
@@ -7,4 +7,7 @@ body {
 a {
   text-decoration: none;
   color: rgb(41, 196, 41);
+}
+*{
+  box-sizing: border-box;
 }
